@@ -1,9 +1,9 @@
 {
-  "name": "Palenight Italic",
-  "author": "Olaolu Olawuyi",
-  "maintainers": ["Olaolu Olawuyi <mrolaolu@gmail.com>"],
+  "name": "Palenight Veripery Italic",
+  "author": "Matteo Alborghetti",
+  "maintainers": ["Matteo Alborghetti <milanteo@live.it>"],
   "type": "dark",
-  "semanticClass": "palenight-italic",
+  "semanticClass": "palenight-veryperi-italic",
   "colors": {
     "contrastActiveBorder": null,
     "contrastBorder": "#282B3C",

@@ -1,9 +1,9 @@
 {
-  "name": "material-palenight-theme",
-  "publisher": "whizkydee",
-  "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
-  "displayName": "Palenight Theme",
-  "version": "2.0.2",
+  "name": "palenight-veryperi",
+  "publisher": "milanteo",
+  "author": "Matteo Alborghetti <milanteo@live.it>",
+  "displayName": "Palenight Veryperi Theme",
+  "version": "0.0.1",
   "description": "An elegant and juicy material-inspired theme for Visual Studio Code.",
   "galleryBanner": {
     "color": "#31364A",
@@ -39,22 +39,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "Palenight Theme",
+        "label": "Palenight Very Peri Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight.json"
       },
       {
-        "label": "Palenight Italic",
+        "label": "Palenight Very Peri Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-italic.json"
       },
       {
-        "label": "Palenight Operator",
+        "label": "Palenight Very Peri Operator",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-operator.json"
       },
       {
-        "label": "Palenight (Mild Contrast)",
+        "label": "Palenight Very Peri (Mild Contrast)",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-mild-contrast.json"
       }

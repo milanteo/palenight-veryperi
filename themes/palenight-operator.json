@@ -1,9 +1,9 @@
 {
-  "name": "Palenight Operator",
-  "author": "Olaolu Olawuyi",
-  "maintainers": ["Olaolu Olawuyi <mrolaolu@gmail.com>"],
+  "name": "Palenight Veripery Operator",
+  "author": "Matteo Alborghetti",
+  "maintainers": ["Matteo Alborghetti <milanteo@live.it>"],
   "type": "dark",
-  "semanticClass": "palenight-operator",
+  "semanticClass": "palenight-veryperi-operator",
   "colors": {
     "contrastActiveBorder": null,
     "contrastBorder": "#282B3C",

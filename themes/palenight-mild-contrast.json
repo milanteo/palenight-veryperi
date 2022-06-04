@@ -1,9 +1,9 @@
 {
-  "name": "Palenight (Mild Contrast)",
-  "author": "Olaolu Olawuyi",
-  "maintainers": ["Olaolu Olawuyi <mrolaolu@gmail.com>"],
+  "name": "Palenight Veripery (Mild Contrast)",
+  "author": "Matteo Alborghetti",
+  "maintainers": ["Matteo Alborghetti <milanteo@live.it>"],
   "type": "dark",
-  "semanticClass": "palenight-mild-contrast",
+  "semanticClass": "palenight-veryperi-mild-contrast",
   "colors": {
     "contrastActiveBorder": null,
     "contrastBorder": "#2C2F40",
